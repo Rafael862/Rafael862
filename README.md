@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15a353&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafael+Ferreira;I'm+26+years+old;I'm+from+Brazil;I+Graduated+Management+IT;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafael862&bg_color=0d1117&color=82dc91&line=15a353&point=007e32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafael862&show_icons=true&count_private=true&hide_border=true&title_color=15a353&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
