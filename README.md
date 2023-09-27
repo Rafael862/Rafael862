@@ -13,6 +13,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Ingles](https://img.shields.io/badge/-ingles-0D1117?style=for-the-badge&logo=ingles&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 
 
